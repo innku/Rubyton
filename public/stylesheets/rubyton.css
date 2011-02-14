@@ -35,6 +35,8 @@ a:visited{
 	color:#996600;
 }
 
+a img {border: none; }
+
 #header{
 	background:#EBE367 url(/images/header.jpg) repeat-x;
 	height:180px;
