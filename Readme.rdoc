@@ -1,0 +1,37 @@
+= Rubyton Micro-CMS
+
+Esta aplicaci&oacute;n es un Micro-CMS que se alimenta de archivos en formato Textile[http://redcloth.org/textile] inspirado en el de Heroku-Docs[https://github.com/heroku/heroku-docs]. 
+
+Es m&aacute;s simple pues est&aacute; dise&ntilde;ado para generar Micro-Sitios. Esta codificado en Sinatra, por ahora esta almacenado en Heroku y lo puedes ver en http://rubyton.org
+
+== Como instalarlo
+
+Debes tener instalado:
+
+* Ruby
+* RubyGems
+* Bundler
+
+	bundle install
+
+Para desarrollo bundler te instala un Gem llamado Sinatra. Para empezar la aplicacion el &uacute;nico comando que tienes que correr es:
+
+	shotgun
+
+Cuando 
+
+== Como usarlo
+
+Para generar contenido tienes que crear un archivo .textile en el directorio "/pages". El &uacute;nico requerimiento es que est&eacute; en formato Textile[http://redcloth.org/textile] y que tengas una l&iacute;nea con la etiqueta *h1* con el t&iacute;tulo de la secci&oacute;n.
+
+	h1. Inicio
+	
+== Ordenar el menu
+
+El menu es autogenerado con los t&iacute;tulos de tus documentos pero si quieres que tengan un ord&eacute;n espec&iacute;fico, debes agregar previo al titulo un n&uacute;mero entre corchetes con el &oacute;rden en el que quieras que vaya:
+
+	h1. [1] Inicio
+	
+Para mayor referencia puedes ver el contenido del sitio de Rubyton en este repositorio.
+
+
