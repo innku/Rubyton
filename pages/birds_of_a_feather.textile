@@ -2,6 +2,10 @@ h1. [3] Birds of a Feather
 
 p. La idea del evento de Birds of a Feather es *compartir tu experiencia* con los miembros de la comunidad Ruby. No importa si eres un Ninja de Ruby o apenas vas comenzando, la experiencia se gana en todos los niveles y esperamos que nos compartas tu aprendizaje.
 
+p. El evento comenzar&aacute; cuando termine el Ruby 101 que ser&aacute; a las *7:30pm*, tenemos espacio para 6 pl&aacute;ticas de 15 minutos.
+
+h2. Participa
+
 *Birds of a feather fly together*. Gran cantidad del c&oacute;digo Ruby es Open-Source, lo que nos ayuda a hacer m&aacute;s efectivo nuestro tiempo de trabajo. Queremos aplicar este concepto tambi&eacute;n al conocimiento. Comparte algo de lo que sabes y la comunidad crecer&aacute; m&aacute;s r&aacute;pido y mejor.
 
 p. *Para participar* puedes contactar a cualquiera de las siguientes cuentas de twitter:
