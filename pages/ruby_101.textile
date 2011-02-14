@@ -21,7 +21,7 @@ p. En caso de que tengas problemas, podr&iacute;amos usar el Ruby de tu sistema 
 
 h2. Instalar Ruby en Windows
 
-p. Instalar Ruby en Windows es muy sencillo gracias a los amigos que contribuyeron para el proyecto de ["Ruby Installer":http://http://rubyinstaller.org/]. 
+p. Instalar Ruby en Windows es muy sencillo gracias a los amigos que contribuyeron para el proyecto de ["Ruby Installer":http://rubyinstaller.org/]. 
 
 p. 1. Entra a la p&aacute;gina: "http://rubyinstaller.org/downloads":http://rubyinstaller.org/downloads 
 
