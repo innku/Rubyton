@@ -6,7 +6,7 @@ p. El primer Rubyton se llevar&aacute; a cabo en el *Tecnol&oacute;gico de Monte
 
 h2. Que habr&aacute;?
 
-p. El Rubyton se dividir&aacute; en dos partes: El "*Ruby 101*":#ruby_101 y las sesiones de "*Birds of a Feather*":#bof.
+p. El Rubyton se dividir&aacute; en dos partes: El "Ruby 101":#ruby_101 y las sesiones de "Birds of a Feather":#bof.
 
 p(#ruby_101). El *Ruby 101* ser&aacute; un taller pr&aacute;ctico corto (90 minutos) donde intentaremos darte un vistazo de la magia de Ruby comenzando desde lo b&aacute;sico como: ciclos, m&eacute;todos y clases hasta llegar a temas m&aacute;s avanzados como creaci&oacute;n de aplicaciones Web y Frameworks. 
 
