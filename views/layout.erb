@@ -1,0 +1,35 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie6"><![endif]-->
+<!--[if (gt IE 6)|!(IE)]><!--><html lang="en" class="no-js"><!--<![endif]-->
+
+<head>
+	<!-- simplified character encoding -->
+	<meta charset="utf-8">
+
+	<title>Rubyton :: <%= html_title %></title>
+	<meta name="description" content="Rubyton: Encuentro de ruby developers">
+	<meta name="author" content="Adrian Cuadros">
+	<!-- favicon 16x16 -->
+	<link rel="shortcut icon" href="/rubyton.ico">
+	<link rel="stylesheet" href="stylesheets/rubyton.css?v=1.0">
+</head>
+<body>
+	<div id='header'>
+		<img src='images/rubyton.png'>
+		<ul id='menu'>
+			<%= menu %>
+			<div class='clear'></div>
+		</ul>
+	</div>
+	<div id="content">
+		<div class='wrapper'>
+			<%= yield %>
+		</div>
+	</div>
+	<div id="footer">
+		<div class='wrapper'>
+			&copy; Rubyton 2011
+		</div>
+	</div>
+</body>
+</html>

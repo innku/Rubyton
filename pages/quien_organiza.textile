@@ -1,0 +1,3 @@
+h1. [5] Quien Organiza
+
+p. El evento est&aacute; organizado por la comunidad de usuarios Ruby de Monterrey y la sociedad de alumnos de tecnolog&iacute;s computacionales (SAITC) del Tecnol&oacute;gico de Monterrey.

@@ -1,0 +1,23 @@
+h1. [1] Evento
+
+p. Rubyton es un evento independiente y gratuito organizado para todas las personas que utilizan ["Ruby":http://ruby-lang.org] o que est&eacute;n interesados en conocer un poco m&aacute;s del lenguaje o de sus plataformas populares (["Ruby on Rails":http://rubyonrails.org], ["Sinatra":http://sinatrarb.com], ["Merb":http://www.merbivore.com/]).
+
+p. El primer Rubyton se llevar&aacute; a cabo en el *Tecnol&oacute;gico de Monterrey el Mi&eacute;rcoles 23 de Febrero a las 6pm en Aulas 3 - 102*.
+
+h2. Que habr&aacute;?
+
+p. El Rubyton se dividir&aacute; en dos partes: El "*Ruby 101*":#ruby_101 y las sesiones de "*Birds of a Feather*":#bof.
+
+p(#ruby_101). El *Ruby 101* ser&aacute; un taller pr&aacute;ctico corto (90 minutos) donde intentaremos darte un vistazo de la magia de Ruby comenzando desde lo b&aacute;sico como: ciclos, m&eacute;todos y clases hasta llegar a temas m&aacute;s avanzados como creaci&oacute;n de aplicaciones Web y Frameworks. 
+
+p. Te recomendamos que revises la secci&oacute;n de "Ruby 101":/ruby_101 para que veas como puedes prepararte. No es necesario tener conocimientos avanzados de programaci&oacute;n pero si no sabes lo que es un ciclo y todav&iacute;a usas Internet Explorer 6, tal vez es mejor que no vengas. 
+
+p(#bof). Tomamos el concepto de *Birds of a Feather* de un mini-evento de "Railsconf":http://railsconf.org que nos gusta mucho. La idea es que cualquier miembro de la comunidad (Si usas ruby, eres un miembro!) nos de una pl&aacute;tica de 15 minutos de algo relacionado al mundo Ruby. Puede ser algo muy espec&iacute;fico como el uso de callbacks en Rails o algo muy general como el porque te gusta ruby.
+
+p. Te invitamos a que participes dando una pl&aacute;tica corta, solo tenemos un par de reglas que puedes revisar en la p&aacute;gina de ["Birds of a Feather":/birds_of_a_feather].
+
+p. 
+
+p. Si ya buscaste en Wikipedia para averiguar de donde viene el t&eacute;rmino, por favor mira "esta p&aacute;gina":http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing) y no "esta":http://en.wikipedia.org/wiki/Birds_of_a_Feather. 
+
+p.   
