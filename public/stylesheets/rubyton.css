@@ -28,7 +28,11 @@ p{
 }
 
 a{
-	color:inherit;
+	color:#723F00;
+}
+
+a:visited{
+	color:#DDF0F0;
 }
 
 #header{
