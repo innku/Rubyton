@@ -12,6 +12,7 @@ Debes tener instalado:
 * RubyGems
 * Bundler
 
+
 	bundle install
 
 Para desarrollo bundler te instala un Gem llamado Sinatra. Para empezar la aplicacion el unico comando que tienes que correr es:
