@@ -20,8 +20,6 @@ Para desarrollo bundler te instala un Gem llamado Sinatra. Para empezar la aplic
 
 	shotgun
 
-Cuando 
-
 == Como usarlo
 
 Para generar contenido tienes que crear un archivo .textile en el directorio "/pages". El unico requerimiento es que este en formato Textile[http://redcloth.org/textile] y que tengas una linea con la etiqueta *h1* con el titulo de la seccion.
