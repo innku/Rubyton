@@ -1,1 +1,28 @@
 h1. [2] Ruby 101
+
+p. *El taller de Ruby es totalmente pr&aacute;ctico* as&iacute; que trae tu laptop para que puedas empezar con Ruby como se debe: Programando.
+
+p. A pesar de que en la sala tendremos los instaladores de Ruby para todos los sistemas operativos, es MUY RECOMENDABLE que ya lo traigas en tu m&aacute;quina, en esta secci&oacute;n vienen instrucciones para instalarlo. 
+
+p. El tiempo del taller es corto as&iacute; que comenzaremos apenas den las 6pm, por esto si llegas sin instalar Ruby, es muy posible que te pierdas las primera parte del taller.
+
+h2. Instalar Ruby en Mac OS X
+
+p. Mac trae una versi&oacute;n de Ruby ya instalada pero esta algo antigua, por lo que te recomendamos usar "RVM (Ruby Version Manager)":http://rvm.beginrescueend.com/rvm/install/
+
+p. En el caso de que tengas a la *versi&oacute;n 10.5 (Leopard)* no deber&iacute;as tener problemas con seguir las instrucciones del sitio.
+
+p. En caso que tengas la *versi&oacute;n 10.6 (Snow leopard)* te recomendamos que sigas las instrucciones del tutorial de "John McAliley":http://www.cowboycoded.com en la siguiente liga:
+
+"http://www.cowboycoded.com/2010/12/04/setting-up-rails-3-on-mac-osx-snow-leopard-10-6-4/":http://www.cowboycoded.com/2010/12/04/setting-up-rails-3-on-mac-osx-snow-leopard-10-6-4/
+
+
+h2. Instalar Ruby en Windows
+
+p. Instalar Ruby en Windows es muy sencillo gracias a los amigos que contribuyeron para el proyecto de ["Ruby Installer":http://http://rubyinstaller.org/]. 
+
+p. 1. Entra a la p&aacute;gina: "http://rubyinstaller.org/downloads":http://rubyinstaller.org/downloads 
+
+p. 2. Baja el instalador de Ruby para la versi&oacute;n 1.8.7 o 1.9.2
+
+p. 3. Dile que si a todo y en caso de que te pida permisos extra, d&aacute;selos.
