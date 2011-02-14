@@ -16,6 +16,8 @@ p. En caso que tengas la *versi&oacute;n 10.6 (Snow leopard)* te recomendamos qu
 
 "http://www.cowboycoded.com/2010/12/04/setting-up-rails-3-on-mac-osx-snow-leopard-10-6-4/":http://www.cowboycoded.com/2010/12/04/setting-up-rails-3-on-mac-osx-snow-leopard-10-6-4/
 
+p. En caso de que tengas problemas, podr&iacute;amos usar el Ruby de tu sistema pero si te gusta Ruby como esperamos que pase, terminar&aacute;s instalando RVM de una manera u otra.
+
 
 h2. Instalar Ruby en Windows
 
@@ -26,3 +28,13 @@ p. 1. Entra a la p&aacute;gina: "http://rubyinstaller.org/downloads":http://ruby
 p. 2. Baja el instalador de Ruby para la versi&oacute;n 1.8.7 o 1.9.2
 
 p. 3. Dile que si a todo y en caso de que te pida permisos extra, d&aacute;selos.
+
+h2. Instalar Ruby en Linux
+
+p. Para instalar Ruby en Linux puedes seguir las instrucciones de la p&aacute;gina de "RVM (Ruby Version Manager)":http://rvm.beginrescueend.com/rvm/install/
+
+p. Te dejamos el siguiente tutorial de About.com para instalar RVM en Ubuntu:
+
+http://ruby.about.com/od/rubyversionmanager/ss/installrvmlinux.htm
+
+p. Si tienes problemas, estamos seguros de que los resolver&aacute;s ;)

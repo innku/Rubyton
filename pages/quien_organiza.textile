@@ -1,3 +1,16 @@
 h1. [5] Quien Organiza
 
-p. El evento est&aacute; organizado por la comunidad de usuarios Ruby de Monterrey y la sociedad de alumnos de tecnolog&iacute;s computacionales (SAITC) del Tecnol&oacute;gico de Monterrey.
+p. El evento est&aacute; organizado por la comunidad de usuarios Ruby de Monterrey y la sociedad de alumnos de tecnolog&iacute;as computacionales (SAITC) del Tecnol&oacute;gico de Monterrey.
+
+p. Esperamos que esta p&aacute;gina crezca en coolaboradores de las diferentes organizaciones que contribuyan a este evento. 
+
+p. Es l&oacute;gico que algunas organizaciones sean las primeras en contribuir a crecer la comunidad pero en el intento de no "apropiarnos" del nombre de Ruby en Monterrey buscamos dejar las menciones lo m&aacute;s neutrales posibles. Si fallamos en esto por favor com&eacute;ntalo con nosotros.
+
+p. Coolaboran en la construcci&oacute;n del evento:
+
+"@adriancuadros":http://twitter.com/adriancuadros
+
+"@miguelcervera":http://twitter.com/miguelcervera
+
+"Sebastian Gutierrez":http://www.innku.com/equipo#sebas
+

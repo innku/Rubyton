@@ -1,1 +1,17 @@
-h1. [3] Birds of a feather
+h1. [3] Birds of a Feather
+
+p. La idea del evento de Birds of a Feather es *compartir tu experiencia* con los miembros de la comunidad Ruby. No importa si eres un Ninja de Ruby o apenas vas comenzando, la experiencia se gana en todos los niveles y esperamos que nos compartas tu aprendizaje.
+
+*Birds of a feather fly together*. Gran cantidad del c&oacute;digo Ruby es Open-Source, lo que nos ayuda a hacer m&aacute;s efectivo nuestro tiempo de trabajo. Queremos aplicar este concepto tambi&eacute;n al conocimiento. Comparte algo de lo que sabes y la comunidad crecer&aacute; m&aacute;s r&aacute;pido y mejor.
+
+p. *Para participar* puedes contactar a cualquiera de las siguientes cuentas de twitter:
+
+"@adriancuadros":http://twitter.com/adriancuadros
+
+"@saitc":http://twitter.com/saitc
+
+p. Tambi&eacute;n tenemos el evento registrado en Facebook("http://on.fb.me/ghApSw":http://on.fb.me/ghApSw), puedes comentarnos tu participaci&oacute;n ah&iacute; ah&iacute; y te integramos al calendario. Solo tenemos *una regla b&aacute;sica*.
+
+h2. No vengas a vender tu empresa
+
+p. La regla b&aacute;sica que tenemos para el evento es que *no vengas a promocionar tu empresa o tu aplicaci&oacute;n*. La idea del evento es enriquecer a la comunidad en conocimiento, si crees que lo que dir&aacute;s no aportar&aacute; m&aacute;s que tu autopromoci&oacute;n, tal vez deber&iacute;as buscar "otro tipo de eventos":http://dotnet.meetup.com/.
