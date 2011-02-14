@@ -12,6 +12,7 @@ Debes tener instalado:
 * RubyGems
 * Bundler
 
+Luego debes correr el siguiente comando dentro del directorio de la aplicaci&oacute;n:
 
 	bundle install
 
