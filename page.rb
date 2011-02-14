@@ -1,10 +1,14 @@
 class Page
   
   def initialize(name)
-    @url = name.to_url
-    @file_content = File.read(File.join(File.dirname(__FILE__), 'pages', "#{@url}.textile"))
-    @title = title
-    @content = content
+    begin
+      @url = name.to_url
+      @file_content = File.read(File.join(File.dirname(__FILE__), 'pages', "#{@url}.textile"))
+      @title = title
+      @content = content
+    rescue Errno::ENOENT
+      raise 'This dude is lost'
+    end
   end
   
   def to_a

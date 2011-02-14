@@ -16,7 +16,15 @@ get '/' do
 end
 
 get '/:page_name' do
-  render_page(params[:page_name])
+  begin
+    render_page(params[:page_name])
+  rescue 
+    erb :lost
+  end
+end
+
+error do
+  'Sorry there was a nasty error - ' + env['sinatra.error'].name
 end
 
 helpers do
