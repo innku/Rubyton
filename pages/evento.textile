@@ -1,6 +1,6 @@
 h1. [1] Evento
 
-p. Rubyton es un evento independiente y gratuito organizado para todas las personas que utilizan ["Ruby":http://ruby-lang.org] o que est&eacute;n interesados en conocer un poco m&aacute;s del lenguaje o de sus plataformas populares (["Ruby on Rails":http://rubyonrails.org], ["Sinatra":http://sinatrarb.com], ["Merb":http://www.merbivore.com/]).
+p. Rubyton es un evento independiente y gratuito organizado para todas las personas que utilizan ["Ruby":http://ruby-lang.org] o que est&eacute;n interesados en conocer un poco m&aacute;s del lenguaje o de sus plataformas populares (["Ruby on Rails":http://rubyonrails.org], ["Sinatra":http://www.sinatrarb.com], ["Merb":http://www.merbivore.com/]).
 
 p. El primer Rubyton se llevar&aacute; a cabo en el *Tecnol&oacute;gico de Monterrey el Mi&eacute;rcoles 23 de Febrero a las 6pm en Aulas 3 - 102*.
 
