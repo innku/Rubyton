@@ -4,7 +4,7 @@ p. *El taller de Ruby es totalmente pr&aacute;ctico* as&iacute; que trae tu lapt
 
 p. A pesar de que en la sala tendremos los instaladores de Ruby para todos los sistemas operativos, es MUY RECOMENDABLE que ya lo traigas en tu m&aacute;quina, en esta secci&oacute;n vienen instrucciones para instalarlo. 
 
-p. El tiempo del taller es corto as&iacute; que comenzaremos apenas den las 6pm, por esto si llegas sin instalar Ruby, es muy posible que te pierdas las primera parte del taller.
+p. El tiempo del taller es corto as&iacute; que *comenzaremos apenas den las 6pm*, por esto si llegas sin instalar Ruby, es muy posible que te pierdas las primera parte del taller.
 
 h2. Instalar Ruby en Mac OS X
 
