@@ -4,7 +4,7 @@ p. Para incentivar el tema de Open-Source, decidimos ver la manera de que el eve
 
 h2. Micro-CMS
 
-p. Esta p&aacute;gina que est&aacute; desarrollada con un Micro-CMS en Sinatra (Si, buscamos cualquier excusa para hacer una app).
+p. Esta p&aacute;gina  est&aacute; desarrollada con un Micro-CMS en Sinatra (Si, buscamos cualquier excusa para hacer una app).
 
 p. Puedes encontrar el c&oacute;digo en github en:
 
