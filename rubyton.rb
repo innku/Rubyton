@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'sinatra'
 require 'redcloth'
-require 'page'
+require File.join(File.dirname(__FILE__), 'page')
 
 HOME_PAGE = 'Evento'
 
