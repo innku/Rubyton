@@ -8,7 +8,13 @@ p. El tiempo del taller es corto as&iacute; que *comenzaremos apenas den las 6pm
 
 h2. Instalar Ruby en Mac OS X
 
-p. Mac trae una versi&oacute;n de Ruby ya instalada pero esta algo antigua, por lo que te recomendamos usar "RVM (Ruby Version Manager)":http://rvm.beginrescueend.com/rvm/install/
+p. *Para poder instalar RVM debes tener instalado GIT*. Puedes conseguirlo de la siguiente liga:
+
+p. "http://code.google.com/p/git-osx-installer/":http://code.google.com/p/git-osx-installer/
+
+p. Mac trae una versi&oacute;n de Ruby ya instalada pero esta algo antigua, por lo que te recomendamos usar "RVM (Ruby Version Manager)":http://rvm.beginrescueend.com. Inst&aacute;lalo siguiendo los pasos que vienen en la siguiente liga:
+
+p. "http://rvm.beginrescueend.com/rvm/install/":http://rvm.beginrescueend.com/rvm/install/
 
 p. En el caso de que tengas a la *versi&oacute;n 10.5 (Leopard)* no deber&iacute;as tener problemas con seguir las instrucciones del sitio.
 
@@ -31,9 +37,15 @@ p. 3. Dile que si a todo y en caso de que te pida permisos extra, d&aacute;selos
 
 h2. Instalar Ruby en Linux
 
-p. Para instalar Ruby en Linux puedes seguir las instrucciones de la p&aacute;gina de "RVM (Ruby Version Manager)":http://rvm.beginrescueend.com/rvm/install/
+p. *Antes de comenzar con el tutorial de RVM debes tener instalado GIT*. Puedes hacer esto con el siguiente comando:
 
-p. Te dejamos el siguiente tutorial de About.com para instalar RVM en Ubuntu:
+p. 		apt-get git-core
+
+p. Para instalar Ruby en Linux puedes seguir las instrucciones de la p&aacute;gina de "RVM (Ruby Version Manager)":http://rvm.beginrescueend.com/
+
+p. "http://rvm.beginrescueend.com/rvm/install/":http://rvm.beginrescueend.com/rvm/install/
+
+p. Te dejamos el siguiente tutorial de About.com si que te puede llevar paso a paso a tener RVM en Ubunto.
 
 http://ruby.about.com/od/rubyversionmanager/ss/installrvmlinux.htm
 
