@@ -14,7 +14,7 @@ p. Vale la pena mencionar que el CMS fue inspirado por la gran "p&aacute;gina de
 
 h2. Im&aacute;genes
 
-Aqu&iacute; est&aacute;n las im&aacute;genes dise&ntilde;adas por nuestra artista de la comunidad Ruby Monterrey: _Sebasti&aacute;n Gutierrez_.
+Aqu&iacute; est&aacute;n las im&aacute;genes dise&ntilde;adas por nuestro artista de la comunidad Ruby Monterrey: _Sebasti&aacute;n Gutierrez_.
 
 h3. Poster
 
